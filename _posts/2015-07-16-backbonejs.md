@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Seperation of concerns with Backbone.js
+title:      Separation of concerns with Backbone.js
 date:       2015-07-16 9:13:00
 author:     Luke Savage
 summary:    Overview of MVC architecture with Backbone.js as an example
