@@ -53,4 +53,4 @@ addTwo 5;
 5 + 2;
 {% endhighlight %}
 
-This article was meant to just be a short and sweet (hah!) intro to macros from sweet.js. If you want to dive a bit deeper take a look at hygienic macros or how you can have [recursive macros](http://jlongster.com/Sweet.js-Tutorial--2--Recursive-Macros-and-Custom-Pattern-Classes), [case based macros](http://nick.balestra.ch/2015/sweetjs-case-macros-for-javascript/) and even [override operators](http://gregrv.github.io/eqex/2015/08/29/holy-macro-roni.html) and keywords that Javascript already uses natively.
+This article was meant to just be a short and sweet (hah!) intro to macros from sweet.js. If you want to dive a bit deeper take a look at how sweet.js uses [hygienic macros](http://zachsebag.com/2015/08/29/losing-your-hygienity.html) or how you can have [recursive macros](http://jlongster.com/Sweet.js-Tutorial--2--Recursive-Macros-and-Custom-Pattern-Classes), [case based macros](http://nick.balestra.ch/2015/sweetjs-case-macros-for-javascript/) and even [override operators](http://gregrv.github.io/eqex/2015/08/29/holy-macro-roni.html) and keywords that Javascript already uses natively.
