@@ -4,7 +4,7 @@ email: luke.savage92@gmail.com
 description: "A simple software engineering blog"
 baseurl: ""
 url: "http://lukesavage.me/"
-title_description: "Software engineer with a focus in full-stack web development currently studying at Hack Reactor's Remote Beta program."
+title_description: "Software engineer with a focus in full-stack web development currently working on Speck.js - a way to generate Tape tests from simple comments."
 title_image: "http://i.imgur.com/yd8w2gY.png"
 google_analytics: "UA-65251027-1"
 disqus_account: lukesavage
