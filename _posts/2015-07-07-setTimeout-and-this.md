@@ -4,7 +4,7 @@ title:      setTimeout and this
 date:       2015-07-08 2:47:18
 author:     Luke Savage
 summary:    Dealing with binding issues of the 'this' keyword
-categories: jekyll
+categories: technical
 thumbnail:  chain
 tags:
 - this

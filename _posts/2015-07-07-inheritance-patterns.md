@@ -4,7 +4,7 @@ title:      Classical, prototypal and psuedoclassical inheritance
 date:       2015-06-08 9:16:00
 author:     Luke Savage
 summary:    Top level differences between classical, prototypal and psuedoclassical inheritance
-categories: jekyll
+categories: technical
 thumbnail:  arrows-v
 tags:
 - inheritance

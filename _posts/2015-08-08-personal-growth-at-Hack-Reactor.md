@@ -4,7 +4,7 @@ title:      Personal Growth at Hack Reactor
 date:       2015-08-08 6:24:00
 author:     Luke Savage
 summary:    The non-technical side to immersive software engineering
-categories: jekyll
+categories: personal
 thumbnail:
 tags:
 - personal
