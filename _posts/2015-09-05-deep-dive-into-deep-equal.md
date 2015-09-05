@@ -16,7 +16,7 @@ tags:
 # Introduction
 This post isn't really about deep equality itself, I just really liked the title. I want to talk about the [Jasmine](http://jasmine.github.io/) testing framework and how to extend it to include deep equality functionality like our good friend [Tape](https://github.com/substack/tape).
 
-In the world of Tape, you can simply test for deep equality with an assertion like `t.deepEqual(myValue, expectedValue);` which is fantastic. The wonderful developers of Tape wrote their own module to test for deep equality; even though I love Tape, we will not be using that module to extend Jasmine.
+In the world of Tape, you can simply test for deep equality with an assertion like `t.deepEqual(myValue, expectedValue);` which is fantastic. The wonderful developers of Tape wrote their own module to test for deep equality; even though [I love Tape](http://zachsebag.com/2015/09/05/tape-or-how-i-learned-to-stop-worrying-and-love-TDD.html), we will not be using that module to extend Jasmine.
 
 Why you ask? Well mostly because it doesn't work for the current project I am working on that allows you to write framework agnostic tests in really small comments within the file you wish to test ([SpeckJS](https://www.npmjs.com/package/speckjs)). Enough self-promotion, let's make Jasmine better!
 
