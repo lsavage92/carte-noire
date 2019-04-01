@@ -4,7 +4,7 @@ email: luke.savage92@gmail.com
 description: "A simple software engineering blog"
 baseurl: ""
 url: "http://lukesavage.me/"
-title_description: "Software engineer with a focus in full-stack web development currently working on Speck.js - a way to generate Tape or Jasmine tests from simple comments."
+title_description: "Software engineer with a focus in full-stack web development. Current passion project - Unity game development!"
 title_image: "http://i.imgur.com/yd8w2gY.png"
 google_analytics: "UA-65251027-1"
 disqus_account: lukesavage
@@ -13,11 +13,11 @@ addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: lsavage92
+twitter_username:
 github_username:  lsavage92
 linkedin_link: https://www.linkedin.com/in/savageluke
 google_plus_link:
-stackoverflow_link: http://stackoverflow.com/users/1378664/lsavage
+stackoverflow_link:
 
 # Footer
 footer_left: "&copy; Copyright 2015 Luke Savage"
