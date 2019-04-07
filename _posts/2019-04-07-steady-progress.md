@@ -3,7 +3,7 @@ layout:     post
 title:      Steady Progress
 date:       2019-04-07 12:30:00
 author:     Luke Savage
-summary:    Exploring new frontiers in software engineering
+summary:    Introduced to game development
 categories: game development
 thumbnail:  aviato
 tags:
